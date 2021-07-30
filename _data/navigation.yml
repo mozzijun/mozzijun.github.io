@@ -6,5 +6,5 @@ main:
      url: /About/
    - title: "Machine Learning"
      url: /Machine-Learning/
-   - title: "Finance"
-     url: /Finance/
+   - title: "Quant"
+     url: /Quant/
